@@ -1,2 +1,2 @@
 # ProgramacionMovil
- Entorno para expliorar programación en JavaScript
+ Entorno para explorar programación en JavaScript
